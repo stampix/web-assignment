@@ -6,6 +6,7 @@ We will be evaluating the quality of your project, how you do it, is entirely up
 ## Goal
 
 Create a triage screen for our website, where we separate consumer vs. business clients.
+You can find the mockups on [Figma](https://www.figma.com/file/9OwDsbySKMVa78EKf4p9XS/Web-Assignment).
 
 ![Saving Goal Plan Mockup Desktop](https://github.com/stampix/web-assignment/blob/master/mockup/desktop.png)
 
