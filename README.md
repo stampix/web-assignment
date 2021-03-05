@@ -20,12 +20,12 @@ Create a triage screen for our website, where we separate consumer vs. business 
 ## Testing
 Language switching should be tested, anything else is optional. Quality over quantity!
 
-# Evaluation
+## Evaluation
 We will mainly check:
 - The visuals of your implementation and how it relates to the mockup
 - The quality of your code. Think best practices, cleanliness, readability, ...
 
-# Delivery
+## Delivery
 Push your solution to your Git platform of choice, as long as it's public. Send us a link :)
 
 ## Using this pre-made repo
