@@ -1,46 +1,33 @@
-# Getting Started with Create React App
+# Stampix Web Assignment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Important**: You can choose any technology stack you want, this repo contains a scaffolded web app with [Create React App](https://github.com/facebook/create-react-app).
+We will be evaluating the quality of your project, how you do it, is entirely up to you :)
 
-## Available Scripts
+## Goal
 
-In the project directory, you can run:
+Create a triage screen for our website, where we separate consumer vs. business clients.
 
-### `yarn start`
+![Saving Goal Plan Mockup Desktop](https://github.com/stampix/web-assignment/blob/master/mockup/desktop.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Requirements
+- The language buttons on top should update the copy. English should be in there, add at least one other language. We won't be evaluating the translation, of course.
+- The 2 buttons should redirect to, in order:
+    1. https://stampix.com
+    2. https://business.stampix.com
+- Feel free to give your own twist to the page
+    
+## Testing
+Language switching should be tested, anything else is optional. Quality over quantity!
 
-### `yarn test`
+# Evaluation
+We will mainly check:
+- The visuals of your implementation and how it relates to the mockup
+- The quality of your code. Think best practices, cleanliness, readability, ...
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Delivery
+Push your solution to your Git platform of choice, as long as it's public. Send us a link :)
 
-### `yarn build`
+## Using this pre-made repo
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+If you wanna make use of this repo and you're not familiar with CRA, check out their [docs](https://create-react-app.dev/docs/getting-started).
